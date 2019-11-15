@@ -1,1 +1,1 @@
-# Java
+public static void main() {}
